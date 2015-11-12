@@ -1,4 +1,7 @@
-# You will want to use Conda
+# The corresponding slides for this are here:
+http://tanyaschlusser.github.io/Python-Fu-in-GIMP.slides.html#/
+
+## You will want to use Conda
 
 The examples are with the OpenCV source:
 https://github.com/Itseez/opencv/tree/master/samples/python2
